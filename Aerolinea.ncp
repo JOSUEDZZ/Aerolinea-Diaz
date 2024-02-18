@@ -1,0 +1,107 @@
+<Project>
+  <Name>Aerolinea</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>1</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Clientes</Name>
+        <Access>Public</Access>
+        <Location left="364" top="41" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int idClientes</Member>
+        <Member type="Field">String Nombre</Member>
+        <Member type="Field">int Edad</Member>
+        <Member type="Field">String Correo</Member>
+        <Member type="Field">int Celular</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Aereopuerto</Name>
+        <Access>Public</Access>
+        <Location left="613" top="41" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int idAereopuerto</Member>
+        <Member type="Field">String nombreAereopuerto</Member>
+        <Member type="Field">String Ubicación</Member>
+        <Member type="Field">string codigoAereopuerto</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Vuelos</Name>
+        <Access>Public</Access>
+        <Location left="904" top="41" />
+        <Size width="182" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int idVuelos</Member>
+        <Member type="Field">int numeroVuelo</Member>
+        <Member type="Field">string nombreAereolinea</Member>
+        <Member type="Field">int newField</Member>
+        <Member type="Field">int idAereopuerto_LlegadaF</Member>
+        <Member type="Field">datetime fechaSalida</Member>
+        <Member type="Field">int fechaLlegada</Member>
+        <Member type="Field">double Precio</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Reservacion</Name>
+        <Access>Public</Access>
+        <Location left="331" top="522" />
+        <Size width="162" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">int idReservación</Member>
+        <Member type="Field">int idClienteF</Member>
+        <Member type="Field">int idVueloF</Member>
+        <Member type="Field">datetime fechaReserva</Member>
+        <Member type="Field">string numeroAsiento</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Association" first="2" second="1">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>879</X>
+          <Y>149</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>801</X>
+          <Y>149</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <StartMultiplicity>1..*</StartMultiplicity>
+        <EndMultiplicity>1..*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="3" second="0">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <StartMultiplicity>1</StartMultiplicity>
+        <EndMultiplicity>1..*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="3" second="2">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>339</X>
+          <Y>421</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <StartMultiplicity>1</StartMultiplicity>
+        <EndMultiplicity>1..*</EndMultiplicity>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>

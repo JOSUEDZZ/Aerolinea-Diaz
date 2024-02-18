@@ -1,0 +1,69 @@
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\bin\Debug\AereolineaDiaz.exe.config
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\bin\Debug\AereolineaDiaz.exe
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\bin\Debug\AereolineaDiaz.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\bin\Debug\CapaEntidad.dll
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\bin\Debug\CapaLogica.dll
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\bin\Debug\CapaEntidad.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\bin\Debug\CapaLogica.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.AssemblyReference.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.MostrarInfoVuelos.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.Principal.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.Properties.Resources.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.Reservación.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.Vuelo.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.GenerateResource.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.CoreCompileInputs.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.CopyComplete
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.exe
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\bin\Debug\CapaDatos.dll
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\bin\Debug\CapaDatos.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.CargaInicio.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.CrearCuenta.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz\AereolineaDiaz\obj\Debug\AereolineaDiaz.FormInvitado.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.AssemblyReference.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.CrearCuenta.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.MostrarInfoVuelos.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.Principal.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.Properties.Resources.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.Reservación.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.Vuelo.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.GenerateResource.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.CoreCompileInputs.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.exe
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\AereolineaDiaz.exe.config
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\AereolineaDiaz.exe
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\AereolineaDiaz.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaEntidad.dll
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaLogica.dll
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaDatos.dll
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaEntidad.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaLogica.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaDatos.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.CopyComplete
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\AereolineaDiaz.exe.config
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\AereolineaDiaz.exe
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\AereolineaDiaz.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaEntidad.dll
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaLogica.dll
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaDatos.dll
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaEntidad.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaLogica.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\bin\Debug\CapaDatos.pdb
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.AssemblyReference.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.CargaInicio.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.CrearCuenta.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.MostrarInfoVuelos.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.Principal.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.Properties.Resources.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.Reservación.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.Vuelo.resources
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.GenerateResource.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.CoreCompileInputs.cache
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.csproj.CopyComplete
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.exe
+C:\Users\JOSUE DIAZ ESCOBAR\Desktop\AEROLINEA DIAZ V\AereolineaDiaz V1\AereolineaDiaz\obj\Debug\AereolineaDiaz.pdb
